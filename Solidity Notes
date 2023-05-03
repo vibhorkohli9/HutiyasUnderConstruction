@@ -1,0 +1,2 @@
+; -> this is necessary to end a statement(LIke in C++ and Java we use it to end each statement)
+// -> This signifys comments and anything you write in this will never go to compile
