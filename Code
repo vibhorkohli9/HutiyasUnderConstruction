@@ -12,4 +12,4 @@ contract SimpleStorage {
     bytes32 favouriteBytes = "cat";
 
 
-}s
+}
